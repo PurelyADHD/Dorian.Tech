@@ -1,0 +1,70 @@
+
+body {
+    position: relative;
+    background-image: url("back1.jpg");
+}
+
+video{
+    position: relative;
+}
+h1{
+    font-size:3.5em;
+}
+
+h3{
+    color:red;
+    font-size:1.5em;
+}
+
+p{
+    font-size:1.2em;
+}
+
+li{
+    font-size:1.8em;
+}
+
+#socialMedia{
+    font-size:1.8em;
+}
+
+.mediaLogo{
+    height: 150px;
+    width: 150px;
+}
+
+nav.horizontalNAV {
+    margin-left: 20%;
+    width: 66%;
+}
+
+nav.horizontalNAV li {
+    float: left;
+    padding: 20px 0px;
+    text-align: center;
+    width: 20%;
+}
+
+nav.horizontalNAV li a {
+    color: rgb(47, 120, 237);
+}
+
+nav.horizontalNAV li a:hover {
+    color:chocolate;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+iframe{
+    display:block;
+        margin: 0 auto;
+}
+
+h1{
+    color:white;
+}
+
